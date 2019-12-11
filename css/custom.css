@@ -1,0 +1,49 @@
+/*********************************************************************************
+	
+	Note: This is custom css. All custom styles (user styles) declare here.
+
+**********************************************************************************/
+
+.bg-image-z {
+  background-image: url(../images/bga.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center; }
+
+
+ .header-sidemenu {
+  
+  background-image: url(../images/h-header.png);
+  background-attachment: scroll;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 100% 0; 
+}
+
+.breadcrumb-area-dm {
+  background: url(../images/digitalmarketing-one.png) no-repeat scroll center center;
+  background-image: url(../images/digitalmarketing-one.png);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover; }
+
+.breadcrumb-area-products {
+  background: url(../images/products.png) no-repeat scroll center center;
+  background-image: url(../images/products.png);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover; }
+
+.breadcrumb-area-contact {
+  background: url(../images/contact.png) no-repeat scroll center center;
+  background-image: url(../images/contact.png);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover; }
+
+.breadcrumb-area-about {
+  background: url(../images/team.jpg) no-repeat scroll center center;
+  background-image: url(../images/team.jpg);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover; }
