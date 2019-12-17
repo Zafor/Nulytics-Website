@@ -22,7 +22,7 @@
 
 .breadcrumb-area-dm {
   background: url(../images/digitalmarketing-one.png) no-repeat scroll center center;
-  background-image: url(../images/digitalmarketing-one.png);
+  /*background-image: url(../images/digitalmarketing-one.png);*/
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover; }
@@ -44,6 +44,26 @@
 .breadcrumb-area-about {
   background: url(../images/team.jpg) no-repeat scroll center center;
   background-image: url(../images/team.jpg);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover; }
+
+
+.breadcrumb-area-web {
+  background: url(../images/service/websitecover.jpg) no-repeat scroll center center;
+  /*background-image: url(../images/service/websitecover.jpg);*/
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover; }
+
+.breadcrumb-area-ecom {
+  background: url(../images/service/e-commerce.jpg) no-repeat scroll center center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover; }
+
+.breadcrumb-area-apps {
+  background: url(../images/service/mobileapps-cover.jpg) no-repeat scroll center center;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover; }
